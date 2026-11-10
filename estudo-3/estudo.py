@@ -68,6 +68,11 @@ while True:
             valor_final = x_ratao_preco
             print(f"Ok, vamos manter o preço de R${valor_final:.2f}.")
 
+    elif opcao == 2:
+        valor_atual = x_Hamburguer_preco
+        ver_lanche = input("Deseja ver um resumo sobre o lanche escolhido? (S/N)")
+    
+
         
 
     
